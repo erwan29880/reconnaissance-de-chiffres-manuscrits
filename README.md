@@ -1,5 +1,7 @@
 # Reconnaissance de chiffres manuscrits
 
+[web app en démo](https://erwan-diato.com/ml/digits/digits.php)
+
 Le classique dataset mnist afin d'entraîner un modèle (réseau de neurones à convolutions) à reconnaître des chiffres manuscrits. Ce programme n'a pas fait l'objet d'une application, il est laissé au brouillon (jupyter notebook).
 
 > Le fichier main_tensorflow.ipynb présente graphiques et déroulé du programme.
